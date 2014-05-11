@@ -1,4 +1,4 @@
-print "Hello, World"
+print 'Hello, World'
 firstName = David
 lastName = Guo
-print "Hello," + firstName + lastName
+print 'Hello,' + firstName + lastName
