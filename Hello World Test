@@ -1,0 +1,4 @@
+print "Hello, World"
+firstName = David
+lastName = Guo
+print "Hello," + firstName + lastName
